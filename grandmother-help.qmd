@@ -1,0 +1,53 @@
+---
+title: "Precautions and Tools for Alzheimer's Safety"
+date: "May 26, 2024"
+lightbox: true
+format:
+  html:
+    toc: true
+    embed-resources: true
+    theme: pulse
+    css: styles.css
+---
+
+# Precautions and Tools for Alzheimer's Safety
+
+1. **Alarmas y Alertas para Puertas:**
+   - **Sensores de Puerta:** Instala alarmas en la puerta que te alerten cuando se abra. Estas pueden ser inalámbricas y activar un timbre o alarma cuando la puerta se abre.
+
+     [Enlace - Amazon](https://a.co/d/8eJfpEB)
+     ![Sensores de Puerta](https://m.media-amazon.com/images/I/91fsPisYa3L._AC_SL1500_.jpg)
+     
+   - **Sensores de Movimiento:** Coloca sensores de movimiento cerca de la puerta para detectar movimiento y alertarte si alguien se acerca a la puerta.
+
+     [Enlace - Amazon](https://a.co/d/1s4OEYe)
+     ![Sensores de Movimiento](https://m.media-amazon.com/images/I/61Z33dZ-G9L._AC_SL1000_.jpg)
+
+2. **Cerraduras y Seguridad:**
+   - **Cerraduras en Posición Alta:** Instala cerraduras más altas en la puerta, fuera del campo de visión y alcance de tu abuela. Un cerrojo deslizante pueden ser efectivos.
+
+     [Enlace - Amazon](https://a.co/d/9bN0bzE)
+     ![Cerraduras en Posición Alta](https://m.media-amazon.com/images/I/61AOG87AqFL._AC_SL1500_.jpg)
+
+3. **Herramientas de Monitoreo:**
+   - **Cámaras:** Usa cámaras de seguridad con acceso a transmisión en vivo para que puedas monitorear la entrada y recibir alertas si intenta salir.
+
+     [Enlace - Amazon](https://a.co/d/bgLRRiz)
+     ![Cámaras](https://m.media-amazon.com/images/I/61J3pXMwXJL._SL1000_.jpg)
+
+   - **Rastreadores GPS Portátiles:** Equípala con un rastreador GPS portátil para que puedas localizarla rápidamente si logra salir.
+   
+     [Enlace - Amazon](https://a.co/d/aToadyD)
+     ![Rastreadores GPS Portátiles](https://m.media-amazon.com/images/I/71JJueCRWJS._AC_SL1500_.jpg)
+     ![Pulsera para AirTag](https://m.media-amazon.com/images/I/61XR-5tJQjL._AC_SL1500_.jpg)
+
+4. **Modificaciones Ambientales:**
+   - **Cubiertas para Puertas:** Coloca una cortina o cubierta sobre la puerta para hacerla menos obvia.
+
+     [Enlace - Amazon](https://a.co/d/eBnm2nz)
+     ![Cubiertas para Puertas](https://m.media-amazon.com/images/I/51vV8TlqvXL._AC_SL1500_.jpg)
+
+   - **Señales Visuales:** Usa señales visuales como letreros de “STOP” o elementos decorativos que desanimen a acercarse a la puerta.
+
+     [Enlace - Amazon](https://a.co/d/7sxbU2s)
+     ![Señales Visuales](https://m.media-amazon.com/images/I/6153uLsexKL._AC_SL1500_.jpg)

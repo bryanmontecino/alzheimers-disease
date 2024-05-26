@@ -1,0 +1,19 @@
+body {
+    background-color: #7bbd79; /* A neutral earth tone color */
+    color: #242424;
+  }
+  
+  a {
+    color: rgb(160, 52, 52);
+  }
+  
+  img {
+    max-width: 100px; /* Adjust the width as needed */
+    height: auto;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #000000; /* Optional: add a border for a cleaner look */
+    padding: 5px; /* Optional: add some padding */
+  }
+  
